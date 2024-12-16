@@ -1,4 +1,4 @@
-# -*- coding: <UTF-8> -*-
+# This Python file uses the following encoding: utf-8
 import os
 import sys
 import pandas as pd
